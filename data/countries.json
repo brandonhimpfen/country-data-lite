@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Canada",
+    "code": "CA",
+    "region": "North America",
+    "currency": {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    },
+    "plugs": {
+      "types": ["A", "B"],
+      "voltage": 120,
+      "frequencyHz": 60
+    },
+    "visaBasics": {
+      "note": "Visa requirements vary by nationality. Many travelers can enter visa-free or with an electronic authorization depending on citizenship.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "region": "North America",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "plugs": {
+      "types": ["A", "B"],
+      "voltage": 120,
+      "frequencyHz": 60
+    },
+    "visaBasics": {
+      "note": "Entry rules depend on nationality. Some travelers may qualify for visa-free travel or an electronic travel authorization, while others require a visa.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "region": "Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "Pound sterling",
+      "symbol": "£"
+    },
+    "plugs": {
+      "types": ["G"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Entry requirements vary by passport. Many short-term visitors do not need a visa, but some nationalities do.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "region": "Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "plugs": {
+      "types": ["C", "E"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "France is part of the Schengen Area. Short-stay rules depend on nationality and Schengen eligibility.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "region": "Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "plugs": {
+      "types": ["C", "F"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Germany is part of the Schengen Area. Short-stay access depends on nationality and Schengen rules.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "region": "Asia",
+    "currency": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥"
+    },
+    "plugs": {
+      "types": ["A", "B"],
+      "voltage": 100,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Visa policy depends on nationality. Many passport holders can visit short-term without a visa, while others must apply in advance.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "region": "Oceania",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "plugs": {
+      "types": ["I"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Most travelers need a visa or electronic travel authorization before arrival, depending on nationality and travel purpose.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "region": "South America",
+    "currency": {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$"
+    },
+    "plugs": {
+      "types": ["C", "N"],
+      "voltage": 127,
+      "frequencyHz": 60
+    },
+    "visaBasics": {
+      "note": "Visa requirements vary by nationality and may change. Some travelers may enter visa-free, while others require a visa.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "region": "Asia",
+    "currency": {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    },
+    "plugs": {
+      "types": ["C", "D", "M"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Many travelers require a visa or e-visa before arrival. Requirements depend on nationality and travel purpose.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "region": "Africa",
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    },
+    "plugs": {
+      "types": ["C", "D", "M", "N"],
+      "voltage": 230,
+      "frequencyHz": 50
+    },
+    "visaBasics": {
+      "note": "Visa exemptions and visa requirements depend on nationality and travel purpose.",
+      "disclaimer": "Always verify visa requirements with official government sources before travel."
+    }
+  }
+]

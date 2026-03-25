@@ -1,0 +1,38 @@
+{
+  "name": "country-data-lite",
+  "version": "0.1.0",
+  "description": "A lightweight country data utility with currency, plugs, and visa basics.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./data/countries.json": "./data/countries.json"
+  },
+  "files": [
+    "src",
+    "data"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "travel",
+    "currency",
+    "plugs",
+    "visa",
+    "dataset",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/country-data-lite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/country-data-lite/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/country-data-lite#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
